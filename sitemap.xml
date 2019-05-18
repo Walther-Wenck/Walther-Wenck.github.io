@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://Walther-Wenck.github.io/post/blog/</loc>
+    <loc>https://Walther-Wenck.github.io/post/blog/</loc>
     <lastmod>2019-05-18T16:49:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://Walther-Wenck.github.io/post/</loc>
-    <lastmod>2019-05-18T16:49:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://Walther-Wenck.github.io/</loc>
+    <loc>https://Walther-Wenck.github.io/post/</loc>
     <lastmod>2019-05-18T16:49:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://Walther-Wenck.github.io/about/</loc>
+    <loc>https://Walther-Wenck.github.io/</loc>
+    <lastmod>2019-05-18T16:49:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Walther-Wenck.github.io/about/</loc>
     <lastmod>2019-05-18T16:48:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://Walther-Wenck.github.io/categories/</loc>
+    <loc>https://Walther-Wenck.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://Walther-Wenck.github.io/tags/</loc>
+    <loc>https://Walther-Wenck.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
